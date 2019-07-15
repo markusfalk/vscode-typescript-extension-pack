@@ -1,0 +1,15 @@
+{
+    "name": "javascript-development-extension-pack",
+    "displayName": "javascript-development-extension-pack",
+    "description": "TypeScript Development Extension Pack",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.36.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "publisher.extensionName"
+    ]
+}
