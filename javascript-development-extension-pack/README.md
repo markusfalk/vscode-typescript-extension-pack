@@ -1,16 +1,41 @@
-# README
+# Angular Development Extension Pack
 
-## This is the README for your extension pack "javascript-development-extension-pack"
+This exension pack is a currated list of all the extension you may need for Typescript development.
 
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+It does not include any theming as this should be your personal preference.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+I explicitly avoid adding snippets as there are so many and I don't want to force you to learn one or the other.
 
-## For more information
+## Whats in the Box
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+### Workflow
 
-**Enjoy!**
+* [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
+* [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
+* [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+* [npm](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script)
+
+### Quality Assurance
+
+* [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
+* [Document This](https://marketplace.visualstudio.com/items?itemName=joelday.docthis)
+* [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=editorconfig.editorconfig)
+* [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+* [HTMLHint](https://marketplace.visualstudio.com/items?itemName=mkaufman.htmlhint)
+* [markdownlint](https://marketplace.visualstudio.com/items?itemName=davidanson.vscode-markdownlint)
+* [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+* [TSLint](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin)
+
+### Communication/Collaboration
+
+* [Live Share Extension Pack](https://marketplace.visualstudio.com/items?itemName=ms-vsliveshare.vsliveshare-pack)
+
+### Other
+
+* [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+* [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=coenraads.bracket-pair-colorizer)
+* [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
+* [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
+* [SVG Viewer](https://marketplace.visualstudio.com/items?itemName=cssho.vscode-svgviewer)
+* [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
+* [TypeScript Import Sorter](https://marketplace.visualstudio.com/items?itemName=mike-co.import-sorter)

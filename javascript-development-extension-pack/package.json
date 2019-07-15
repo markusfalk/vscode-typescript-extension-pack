@@ -1,15 +1,23 @@
 {
-    "name": "javascript-development-extension-pack",
-    "displayName": "javascript-development-extension-pack",
+    "name": "typescript-development-extension-pack",
+    "displayName": "typescript-development-extension-pack",
     "description": "TypeScript Development Extension Pack",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.36.0"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/markusfalk/vscode-typescript-extension-pack"
+    },
+    "publisher": "MarkusFalk",
+    "icon": "logo-typescript.png",
     "categories": [
         "Extension Packs"
     ],
-    "extensionPack": [ 
-        "publisher.extensionName"
+    "extensionPack": [
+        "mike-co.import-sorter",
+        "ms-vscode.vscode-typescript-tslint-plugin",
+        "MarkusFalk.javascript-development-extension-pack"
     ]
 }
