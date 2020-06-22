@@ -3,6 +3,13 @@
     "displayName": "TypeScript Development Extension Pack",
     "description": "This exension pack is a currated list of all the extension you may need for TypeScript development.",
     "version": "1.0.1",
+    "scripts": {
+        "vsce": "vsce",
+        "vsce:package": "vsce package",
+        "vsce:publish": "vsce publish",
+        "vscode:publish": "npm run vsce:publish",
+        "postversion": "git push && git push --tags && npm run vsce:package"
+    },
     "engines": {
         "vscode": "^1.36.0"
     },
