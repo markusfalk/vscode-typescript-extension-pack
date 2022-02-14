@@ -2,7 +2,7 @@
     "name": "typescript-development-extension-pack",
     "displayName": "TypeScript Development Extension Pack",
     "description": "This exension pack is a currated list of all the extension you may need for TypeScript development.",
-    "version": "2.0.0",
+    "version": "3.0.0",
     "scripts": {
         "vsce": "vsce",
         "vsce:package": "vsce package",
