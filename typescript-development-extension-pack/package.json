@@ -23,8 +23,6 @@
         "Extension Packs"
     ],
     "extensionPack": [
-        "mike-co.import-sorter",
-        "ms-vscode.vscode-typescript-tslint-plugin",
         "markusfalk.javascript-development-extension-pack"
     ]
 }
